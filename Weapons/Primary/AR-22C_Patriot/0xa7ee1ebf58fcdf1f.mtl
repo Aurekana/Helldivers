@@ -1,0 +1,21 @@
+newmtl _0x5990e5efbca8ae21
+illium 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+newmtl _0xa7ee1ebf58fcdf1f
+illium 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Unk _images\0x72c3665fc26bcfbf.png
+map_Kd _images\0x99e3056e25a821c6.png
+norm _images\0x9bea53c6c5f1b42d.png
+map_Unk _images\0x9c5191fb9eea4bf7.png
+map_Kd _images\0x9c5191fb9eea4bf7.png
+norm _images\0x1e3747d9c4356fe.png
+newmtl _0x84b327056baf1c6d
+illium 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
